@@ -121,4 +121,44 @@ If you use this implementation in your research, please cite the original paper:
 
 ```
 Wildberger, N.J., & Rubin, K.W. (2023). A Hyper-Catalan Series Solution to Polynomial Equations, and the Geode.
-``` 
+```
+
+### BibTeX
+
+```bibtex
+@article{wildberger2025hypercatalan,
+  title={A Hyper-Catalan Series Solution to Polynomial Equations, and the Geode},
+  author={Wildberger, Norman J. and Rubine, Dean},
+  year={2025},
+  journal={American Mathematical Monthly},
+  publisher={Taylor \& Francis},
+  doi={10.1080/00029890.2025.2460966},
+  url={https://www.tandfonline.com/doi/full/10.1080/00029890.2025.2460966},
+}
+```
+
+You can also cite this C++ implementation:
+
+```bibtex
+@software{soloviov2023hypercatalancpp,
+  author = {Soloviov, Eugen},
+  title = {Hyper-Catalan Polynomial Solver (C++)},
+  year = {2025},
+  url = {https://github.com/suenot/hyper-catalan-cpp},
+  version = {0.1.0},
+  description = {A C++ implementation of the Hyper-Catalan series method for solving polynomial equations}
+}
+```
+
+There is also a Rust implementation available:
+
+```bibtex
+@software{soloviov2023hypercatalanrs,
+  author = {Soloviov, Eugen},
+  title = {Hyper-Catalan Polynomial Solver (Rust)},
+  year = {2025},
+  url = {https://github.com/suenot/hyper-catalan-rs},
+  version = {0.1.0},
+  description = {A Rust implementation of the Hyper-Catalan series method for solving polynomial equations}
+}
+```
