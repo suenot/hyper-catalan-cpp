@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you use this implementation in your research, please cite the original paper:
 
 ```
-Wildberger, N.J., & Rubin, K.W. (2023). A Hyper-Catalan Series Solution to Polynomial Equations, and the Geode.
+Wildberger, N.J., & Rubin, K.W. (2025). A Hyper-Catalan Series Solution to Polynomial Equations, and the Geode.
 ```
 
 ### BibTeX
@@ -140,11 +140,11 @@ Wildberger, N.J., & Rubin, K.W. (2023). A Hyper-Catalan Series Solution to Polyn
 You can also cite this C++ implementation:
 
 ```bibtex
-@software{soloviov2023hypercatalancpp,
+@software{soloviov2025hypercatalancpp,
   author = {Soloviov, Eugen},
   title = {Hyper-Catalan Polynomial Solver (C++)},
   year = {2025},
-  url = {https://github.com/suenot/hyper-catalan-cpp},
+  url = {https://github.com/suenot/hyper-catalan},
   version = {0.1.0},
   description = {A C++ implementation of the Hyper-Catalan series method for solving polynomial equations}
 }
@@ -153,7 +153,7 @@ You can also cite this C++ implementation:
 There is also a Rust implementation available:
 
 ```bibtex
-@software{soloviov2023hypercatalanrs,
+@software{soloviov2025hypercatalanrs,
   author = {Soloviov, Eugen},
   title = {Hyper-Catalan Polynomial Solver (Rust)},
   year = {2025},
